@@ -13,7 +13,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoo0635&theme=radical" alt="Top Languages" />
 </div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yoo0635&layout=donut&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoo0635&theme=radical" />
+
 
 
 
