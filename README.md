@@ -8,12 +8,27 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ## GitHub Stats 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yoo0635&theme=radical" alt="Yoo0635's GitHub Stats" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoo0635&theme=radical" alt="Top Languages" />
-</div>
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yoo0635&theme=radical" />
+
+</td>
+<td>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoo0635&theme=radical" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+</div>
+
+
+
 
 
 
