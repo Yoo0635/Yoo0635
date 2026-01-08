@@ -17,7 +17,7 @@
 - **Hanshin AISW Festival 일반 경진대회 장려상**
   - 프로젝트명: DNS Optimizer
   - 주최: 한신대학교
-- **새싹 Hackathon 본선 진출 (예선 성적 14위)**
+- **새싹 Hackathon 본선 진출 (예선 14위)**
   - 프로젝트명: Deposit Radar
   - 주최: 서울특별시, 서울경제진흥원
   - 링크: https://dacon.io/competitions/official/236624/leaderboard
