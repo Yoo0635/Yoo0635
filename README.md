@@ -21,6 +21,8 @@
   - 프로젝트명: Deposit Radar
   - 주최: 서울특별시, 서울경제진흥원
 
+### 2026
+
 ## GitHub Stats 
 <div align="center">
 
