@@ -7,6 +7,19 @@
 ## Tech Stack:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+## Leadership Experience
+### 2024
+- 하계 팀 프로젝트 팀장
+
+### 2025
+- DBNET LAB 랩장
+- DBNET 전공소학회장, 튜터링장, 연구회멘토링장
+- 캡스톤디자인 팀장
+- AISW 페스티벌 일반 경진대회 팀장
+- 새싹톤 팀장
+
+### 2026
+
 ## Awards
 
 ### 2025
