@@ -44,8 +44,14 @@
 
 ## GitHub Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yoo0635&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yoo0635&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoo0635&theme=radical&hide_border=true" height="165" alt="streak graph" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yoo0635&layout=compact&theme=radical" height="165" alt="top languages" />
+  </a>
+</div>
 
 
 
