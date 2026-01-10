@@ -7,7 +7,11 @@
 ## Tech Stack:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-## Leadership Experience
+## Experience
+
+### 2022-2023
+- 육군본부 공보정훈실 웹진제작병 (블로그 편집 및 디자인, 조회수 데이터 분석)
+  
 ### 2024
 - 한신대학교 하계 팀 프로젝트 팀장
 
