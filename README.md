@@ -43,26 +43,9 @@
 
 
 ## GitHub Stats 
-<div align="center">
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yoo0635&theme=radical" />
-
-</td>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoo0635&theme=radical" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-</div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yoo0635&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yoo0635&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
