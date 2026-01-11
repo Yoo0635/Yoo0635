@@ -44,14 +44,11 @@
 
 ## GitHub Stats 
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoo0635&theme=radical&hide_border=true" height="165" alt="streak graph" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yoo0635&layout=compact&theme=radical&hide_border=true" height="165" alt="top languages" />
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yoo0635&theme=dark&refresh=9999)](https://git.io/streak-stats)
+
+
+
+
 
 
 
