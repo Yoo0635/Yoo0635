@@ -44,7 +44,7 @@
 
 ## GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yoo0635&theme=dark&refresh=9999)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yoo0635&theme=dark&refresh=20260111)](https://git.io/streak-stats)
 
 
 
