@@ -1,5 +1,5 @@
 ## Hi, I'm Yoo0635
-### A perfectionism backend developer
+### A Computer Engineering Student
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2e_ingg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yooyoo9191@gmail.com) 
