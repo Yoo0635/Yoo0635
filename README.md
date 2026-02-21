@@ -42,7 +42,10 @@
 
 ### 2026
 
+## 📊 GitHub Activity
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoo0635&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=yoo0635&theme=tokyo-night)
 
 
 
