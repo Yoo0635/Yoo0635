@@ -48,7 +48,7 @@
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoo0635&theme=tokyonight)
-![Top Langs](https://gitmystat.vercel.app/top-langs?username=yoo0635)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=yoo0635)
 
 
 
