@@ -47,7 +47,10 @@
   - 링크: https://dacon.io/competitions/official/236624/leaderboard
 
 ### 2026
-
+- **AI HACK Camp 2026**
+  - 프로젝트명: CSI 
+  - 주최: 국립중앙과학관
+  - 링크: 
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoo0635&theme=tokyonight)
