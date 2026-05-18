@@ -47,7 +47,7 @@
   - 링크: https://dacon.io/competitions/official/236624/leaderboard
 
 ### 2026
-- **AI HACK Camp 2026**
+- **AI HACK Camp 2026 최우수상**
   - 프로젝트명: CSI 
   - 주최: 국립중앙과학관
   - 링크: 
