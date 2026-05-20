@@ -50,7 +50,7 @@
 - **AI HACK Camp 2026 최우수상**
   - 프로젝트명: CSI 
   - 주최: 국립중앙과학관
-  - 링크: 
+  - 링크: https://biz.heraldcorp.com/article/10740944
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoo0635&theme=tokyonight)
