@@ -1,5 +1,5 @@
 ## Hi, I'm Yoo0635
-## 📊 GitHub Activity
+## GitHub Activity
 <table>
 <tr>
 <td width="65%">
