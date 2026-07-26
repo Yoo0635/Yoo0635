@@ -1,4 +1,3 @@
-## Hi, I'm Yoo0635
 ## GitHub Activity
 <table>
 <tr>
