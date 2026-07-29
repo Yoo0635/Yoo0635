@@ -1,5 +1,5 @@
-## Portfolio
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white)](https://deluxe-clove-39d.notion.site/43e0bbd5ece482dc8c770195adb38875)
+## Contact
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white)](https://deluxe-clove-39d.notion.site/43e0bbd5ece482dc8c770195adb38875) [![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yooyoo9191@gmail.com)
 
 ## GitHub Activity
 <table>
