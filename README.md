@@ -16,12 +16,3 @@
 </td>
 </tr>
 </table>
-
-## Running Service
-**IEUM: https://ieum.rktclgh.site/**
-
-
-
-
-
-
