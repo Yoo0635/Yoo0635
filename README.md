@@ -1,7 +1,9 @@
-### 안녕하십니까 같이 일하는 개발자를 넘어, 다시 함께 문제를 해결하고 싶은 백엔드 개발자 유인근입니다.
+### 안녕하십니까 스스로를 바쁘게 만들어 극한의 상황까지 견디며, 성장하는 것이 재밌는 백엔드 개발자 유인근입니다.
+#### 같이 일하는 개발자를 넘어, 다시 함께 문제를 해결하고 싶은 동료가 되고 싶습니다.
+[![About Me](https://img.shields.io/badge/ABOUT_ME-050038?style=for-the-badge&logo=readme&logoColor=white)](https://deluxe-clove-39d.notion.site/43e0bbd5ece482dc8c770195adb38875?source=copy_link)
+<br>
 
 ## Tech Stack
-
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,13 +23,7 @@
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Contact
-
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white)](https://deluxe-clove-39d.notion.site/43e0bbd5ece482dc8c770195adb38875)
-[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yooyoo9191@gmail.com)
-
 ## GitHub Activity
-
 <table>
 <tr>
 <td width="65%">
